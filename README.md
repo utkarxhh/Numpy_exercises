@@ -1,2 +1,2 @@
-# Numpy_exercises
+#Python Exercises
 100 numpy exercises
